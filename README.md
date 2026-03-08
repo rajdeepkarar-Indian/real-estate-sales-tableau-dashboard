@@ -4,9 +4,6 @@
 ## Project Overview
 This project analyzes real estate sales data from 2011 to 2022 using Tableau to uncover market trends, regional performance, and property type distribution. The goal of this project is to transform raw transactional data into meaningful insights through interactive data visualization and storytelling.
 
-## Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
-
 ## Key Features
 - Interactive Tableau dashboard
 - Year-over-Year sales trend analysis
